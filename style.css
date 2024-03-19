@@ -1,0 +1,82 @@
+ body{
+   background-size: 100%;
+
+margin: auto;
+
+ }
+ h1{
+    color: darkblue;
+ }
+ h2{
+    color: aliceblue;
+    background-color: darkblue;
+ }
+section img{
+    float: right;
+margin-right: 20px;
+width : 150px    ;
+height: 100px;
+
+}
+header{
+
+    text-align: center;
+    width: 900px;
+    height: 130px;
+    background-color: lightgray;
+    padding-top: 20px;
+    margin: auto;
+}
+
+nav{  text-align:left ;
+    height: 30px;
+    width: 900px;
+    background-color: darkblue;
+    margin-top: 60px;
+
+}
+nav :hover{
+    background-color: lightgray;
+}
+aside{
+    float: left;
+    width: 250px;
+    height: 200px;
+
+}
+section{
+    padding-top: 10px;
+    margin-right: 20px;
+    width: auto;
+    height: 200px;
+
+}
+#d1{
+    width: 900px;
+    margin:auto;
+}
+footer{
+   
+    text-align: aur;
+    width: 900px;
+    background-color: lightgray;
+    height: 50px;
+    bottom: 0;
+    margin: auto;
+}
+
+.box{
+    border: 1px solid;
+    width: 200px;
+    background-color: lightgray;
+}
+#box0{
+    margin-left: 45px;
+}
+#box5{
+    height: 250px;
+    width: 250px;
+    border: 5px darkblue;
+    float: left;
+    padding-right: 20px;
+}
